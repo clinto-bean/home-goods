@@ -1,0 +1,11 @@
+# Environment
+*.env*
+
+# Testing
+/test
+
+# Output
+/bin
+
+# Todo
+*todo*
